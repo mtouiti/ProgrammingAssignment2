@@ -2,9 +2,8 @@
 #               Johns Hopkins University                     #
 #                   R Programming                            #
 #       Programming Assignment 2: Lexical Scoping            #
-#                                                  		     #
 #                                                            #
-# 	Author:          Mohamed TOUITI                          #
+# 	Author:          Mohamed TOUITI                         #
 ##############################################################
 
 ##############################################################
